@@ -1,0 +1,68 @@
+{
+  "Amazon Echo": {
+    "precision": 0.8567880794701986,
+    "recall": 0.1035,
+    "f1-score": 0.18468950749464666,
+    "support": 50000.0
+  },
+  "Belkin Wemo switch": {
+    "precision": 0.2892430278884462,
+    "recall": 0.017146905999055266,
+    "f1-score": 0.03237458193979933,
+    "support": 21170.0
+  },
+  "Belkin wemo motion sensor": {
+    "precision": 0.11007402639201802,
+    "recall": 0.008915537017726799,
+    "f1-score": 0.016495044252055852,
+    "support": 38360.0
+  },
+  "IPhone": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 15331.0
+  },
+  "Light Bulbs LiFX Smart Bulb": {
+    "precision": 0.1452513966480447,
+    "recall": 0.0007778841550981331,
+    "f1-score": 0.0015474808796833617,
+    "support": 33424.0
+  },
+  "NEST Protect smoke alarm": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 82.0
+  },
+  "Smart Things": {
+    "precision": 0.000605143721633888,
+    "recall": 4e-05,
+    "f1-score": 7.503986492824313e-05,
+    "support": 50000.0
+  },
+  "TP-Link Smart plug": {
+    "precision": 0.17391304347826086,
+    "recall": 0.0001951219512195122,
+    "f1-score": 0.00038980655849534673,
+    "support": 20500.0
+  },
+  "micro avg": {
+    "precision": 0.33292321458531404,
+    "recall": 0.026010739862015932,
+    "f1-score": 0.048251657561560794,
+    "support": 228867.0
+  },
+  "macro avg": {
+    "precision": 0.32198433969982526,
+    "recall": 0.07882193114038746,
+    "f1-score": 0.11277976595703443,
+    "support": 228867.0
+  },
+  "weighted avg": {
+    "precision": 0.26966524568966443,
+    "recall": 0.026010739862015932,
+    "f1-score": 0.04662414357330466,
+    "support": 228867.0
+  }
+}

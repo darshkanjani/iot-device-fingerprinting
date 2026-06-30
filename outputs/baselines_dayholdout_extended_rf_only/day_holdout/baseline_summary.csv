@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1,train_rows,test_rows,fit_seconds,predict_seconds,total_seconds,split_mode
+rf,0.6571774756140845,0.6814946882069709,0.6613188986185441,799033,163414,1233.6301379203796,3.8559763431549072,1244.8478972911835,day_holdout

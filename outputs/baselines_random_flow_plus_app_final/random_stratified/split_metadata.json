@@ -1,0 +1,8 @@
+{
+  "split_mode": "random_stratified",
+  "test_size": 0.2,
+  "random_state": 42,
+  "train_rows": 769957,
+  "test_rows": 192490,
+  "note": "Random stratified split by device label. Optimistic baseline because flows from the same day may appear in both train and test."
+}

@@ -1,0 +1,17 @@
+# Core data processing
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Plotting
+matplotlib
+
+# Flow extraction
+nfstream
+
+# Optional 1D-CNN baseline used by run_baseline_models.py
+# If TensorFlow is unavailable, the scripts skip the CNN baseline.
+tensorflow
+keras

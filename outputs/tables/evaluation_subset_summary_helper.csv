@@ -1,0 +1,5 @@
+setting,rows_used,label_col,labels_used,notes
+Tier 1 / UNSW-DI,962447,device,29,Random stratified + day-held-out splits drawn from same CSV
+Tier 2 / DI→AD,405832,device,19,Capped AD DI∩AD overlap set
+Tier 3 / DI→YourThings device,228867,device,8,"Canonicalised labels, filtered to DI-seen devices, capped at 50000/class (before cap: 602,433)"
+Tier 3 / DI→YourThings category,280112,category,6,"Mapped with CATEGORY_MAP_UNSW, dropped unmapped/unseen categories, capped at 50000/class (before cap: 2,892,062)"

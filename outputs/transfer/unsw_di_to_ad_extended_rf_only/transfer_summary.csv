@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1,train_rows,test_rows,dropped_unseen_test_rows,max_test_per_class
+rf,0.5348816295330381,0.5937531462413116,0.5912459289750568,962447,355832,4540270,50000

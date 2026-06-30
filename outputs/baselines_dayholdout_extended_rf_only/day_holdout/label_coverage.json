@@ -1,0 +1,10 @@
+{
+  "num_train_labels": 29,
+  "num_test_labels": 25,
+  "labels_missing_from_test": [
+    "MacBook",
+    "MacBook/Iphone",
+    "Nest Dropcam",
+    "iHome"
+  ]
+}

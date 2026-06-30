@@ -1,0 +1,51 @@
+device_raw,device_canonical,category,is_device_overlap,is_category_overlap
+AmazonEchoGen1,Amazon Echo,speaker,True,True
+BelkinWeMoSwitch,Belkin Wemo switch,plug,True,True
+BelkinWeMoMotionSensor,Belkin wemo motion sensor,sensor,True,True
+iPhone,IPhone,phone,True,True
+LIFXVirtualBulb,Light Bulbs LiFX Smart Bulb,light,True,True
+NestProtect,NEST Protect smoke alarm,sensor,True,True
+SamsungSmartThingsHub,Smart Things,hub,True,True
+TP-LinkWiFiPlug,TP-Link Smart plug,plug,True,True
+AndroidTablet,AndroidTablet,tablet,False,True
+AppleHomePod,AppleHomePod,speaker,False,True
+AugustDoorbellCam,AugustDoorbellCam,camera,False,True
+BelkinNetcam,BelkinNetcam,camera,False,True
+BoseSoundTouch10,BoseSoundTouch10,speaker,False,True
+Canary,Canary Camera,camera,False,True
+CasetaWirelessHub,CasetaWirelessHub,hub,False,True
+ChineseWebcam,ChineseWebcam,camera,False,True
+D-LinkDCS-5009LCamera,D-LinkDCS-5009LCamera,camera,False,True
+GoogleHome,GoogleHome,speaker,False,True
+GoogleHomeMini,GoogleHomeMini,speaker,False,True
+GoogleOnHub,GoogleOnHub,hub,False,True
+HarmonKardonInvoke,HarmonKardonInvoke,speaker,False,True
+InsteonHub,InsteonHub,hub,False,True
+KoogeekLightbulb,KoogeekLightbulb,light,False,True
+LogitechHarmonyHub,LogitechHarmonyHub,hub,False,True
+LogitechLogiCircle,LogitechLogiCircle,camera,False,True
+MiCasaVerdeVeraLite,MiCasaVerdeVeraLite,hub,False,True
+NestCamIQ,NestCamIQ,camera,False,True
+NestCamera,NestCamera,camera,False,True
+NetgearArloCamera,NetgearArloCamera,camera,False,True
+PhilipsHUEHub,PhilipsHUEHub,hub,False,True
+PiperNV,PiperNV,camera,False,True
+RingDoorbell,Ring Door Bell,camera,False,True
+SecurifiAlmond,SecurifiAlmond,hub,False,True
+Sonos,Sonos,speaker,False,True
+TP-LinkSmartWiFiLEDBulb,TP-LinkSmartWiFiLEDBulb,light,False,True
+Wink2Hub,Wink2Hub,hub,False,True
+WinkHub,WinkHub,hub,False,True
+WithingsHome,WithingsHome,camera,False,True
+iPad,iPad,tablet,False,True
+AmazonFireTV,AmazonFireTV,tv,False,False
+AppleTV(4thGen),AppleTV(4thGen),tv,False,False
+BelkinWeMoCrockpot,BelkinWeMoCrockpot,,False,False
+BelkinWeMoLink,BelkinWeMoLink,,False,False
+ChamberlainmyQGarageOpener,ChamberlainmyQGarageOpener,garage,False,False
+NestGuard,NestGuard,security,False,False
+Roku4,Roku4,tv,False,False
+RokuTV,RokuTV,tv,False,False
+Roomba,Roomba,robot,False,False
+SamsungSmartTV,SamsungSmartTV,tv,False,False
+nVidiaShield,nVidiaShield,tv,False,False

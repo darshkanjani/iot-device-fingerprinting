@@ -1,0 +1,9 @@
+dataset,path,role,rows,label_col,n_labels,n_columns
+"UNSW-DI (clean, flow_plus_app)",outputs/clean/unsw_di_all_flow_plus_app.csv,Tier 1 source / train,962447,device,29,62
+"UNSW-AD (clean, flow_plus_app)",outputs/clean/unsw_ad_all_flow_plus_app.csv,Raw external source,6146781,device,26,62
+UNSW-AD intersection (flow_plus_app),outputs/prepared/unsw_ad_intersection_flow_plus_app.csv,DI∩AD overlap before cap,5574697,device,19,62
+UNSW-AD capped intersection (flow_plus_app),outputs/prepared/unsw_ad_intersection_flow_plus_app_capped.csv,Tier 2 evaluation set,405832,device,19,62
+"YourThings (clean, flow_plus_app)",outputs/clean/yourthings_all_flow_plus_app.csv,Raw external source,3978467,device,50,62
+YourThings prepared (flow_plus_app),outputs/prepared/yourthings_prepared_flow_plus_app.csv,Mapped external source,3978467,device,50,67
+YourThings device-overlap (flow_plus_app),outputs/prepared/yourthings_device_overlap_flow_plus_app.csv,Device-overlap subset before cap,602433,device,8,67
+YourThings category-overlap (flow_plus_app),outputs/prepared/yourthings_category_overlap_flow_plus_app.csv,Category-overlap subset before cap,2923751,category,8,67

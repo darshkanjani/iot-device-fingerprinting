@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+*.csv.gz
+raw_data/
+cleaned_data/
+prepared_data/
+predictions/

@@ -1,0 +1,13 @@
+{
+  "train_csv": "outputs/clean/unsw_di_all_flow_plus_app.csv",
+  "test_csv": "outputs/prepared/yourthings_prepared_flow_plus_app.csv",
+  "level": "category",
+  "common_feature_count": 60,
+  "dropped_unseen_test_rows": 994839,
+  "max_test_per_class": 50000,
+  "models": [
+    "rf",
+    "gb",
+    "knn"
+  ]
+}

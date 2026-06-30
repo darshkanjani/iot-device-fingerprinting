@@ -1,0 +1,4 @@
+profile,total_columns,model_features,metadata_or_label_columns
+flow_only,60,58,2
+flow_plus_app,62,60,2
+extended,67,65,2

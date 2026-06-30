@@ -1,0 +1,183 @@
+{
+  "Amazon Echo": {
+    "precision": 0.7912097981124584,
+    "recall": 0.5181,
+    "f1-score": 0.6261708222042277,
+    "support": 50000.0
+  },
+  "Android Phone": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Belkin Wemo switch": {
+    "precision": 0.293573975693181,
+    "recall": 0.14085687349418624,
+    "f1-score": 0.19037281736668238,
+    "support": 28639.0
+  },
+  "Belkin wemo motion sensor": {
+    "precision": 0.908301874616849,
+    "recall": 0.56302,
+    "f1-score": 0.695146494141469,
+    "support": 50000.0
+  },
+  "Dropcam": {
+    "precision": 0.8764044943820225,
+    "recall": 0.37877211238293446,
+    "f1-score": 0.5289416323565027,
+    "support": 2883.0
+  },
+  "HP Printer": {
+    "precision": 0.936834094368341,
+    "recall": 0.21581346423562411,
+    "f1-score": 0.35081219720718154,
+    "support": 11408.0
+  },
+  "IPhone": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Insteon Camera": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Laptop": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Light Bulbs LiFX Smart Bulb": {
+    "precision": 0.4158258098778545,
+    "recall": 0.6110367892976588,
+    "f1-score": 0.49487607782944326,
+    "support": 17940.0
+  },
+  "MacBook": {
+    "precision": 0.018115942028985508,
+    "recall": 0.5481283422459893,
+    "f1-score": 0.03507271171941831,
+    "support": 374.0
+  },
+  "MacBook/Iphone": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "NEST Protect smoke alarm": {
+    "precision": 0.9904306220095693,
+    "recall": 0.8214285714285714,
+    "f1-score": 0.8980477223427332,
+    "support": 252.0
+  },
+  "Nest Dropcam": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Netatmo Welcome": {
+    "precision": 0.898442677269715,
+    "recall": 0.7725071225071225,
+    "f1-score": 0.8307291666666667,
+    "support": 14040.0
+  },
+  "Netatmo weather station": {
+    "precision": 0.992472266244057,
+    "recall": 0.9891411648568608,
+    "f1-score": 0.9908039157520023,
+    "support": 5065.0
+  },
+  "PIX-STAR Photo-frame": {
+    "precision": 0.8787296280819056,
+    "recall": 0.8070310101320234,
+    "f1-score": 0.8413555795622775,
+    "support": 13028.0
+  },
+  "Samsung Galaxy Tab": {
+    "precision": 0.7289434757272849,
+    "recall": 0.65048,
+    "f1-score": 0.6874801834746032,
+    "support": 50000.0
+  },
+  "Samsung SmartCam": {
+    "precision": 0.8253675280098439,
+    "recall": 0.8452661250207263,
+    "f1-score": 0.8351983223290792,
+    "support": 30155.0
+  },
+  "Smart Things": {
+    "precision": 0.45382801755190255,
+    "recall": 0.4060174605964727,
+    "f1-score": 0.4285935180603661,
+    "support": 34134.0
+  },
+  "TP-Link Day Night Cloud camera": {
+    "precision": 0.7159684274438373,
+    "recall": 0.4183043632493792,
+    "f1-score": 0.5280788177339901,
+    "support": 14095.0
+  },
+  "TP-Link Smart plug": {
+    "precision": 0.9409688520250595,
+    "recall": 0.7999399894981621,
+    "f1-score": 0.8647421342847875,
+    "support": 13331.0
+  },
+  "TPLink Router Bridge LAN (Gateway)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Triby Speaker": {
+    "precision": 0.9890965732087228,
+    "recall": 0.035837236864382865,
+    "f1-score": 0.06916834595065628,
+    "support": 17719.0
+  },
+  "Withings Aura smart sleep sensor": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Withings Smart Baby Monitor": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Withings Smart scale": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "iHome": {
+    "precision": 0.9551249362570118,
+    "recall": 0.6764174792343807,
+    "f1-score": 0.7919661733615222,
+    "support": 2769.0
+  },
+  "accuracy": 0.5348816295330381,
+  "macro avg": {
+    "precision": 0.4860585354610215,
+    "recall": 0.36421778946587413,
+    "f1-score": 0.3816984511551289,
+    "support": 355832.0
+  },
+  "weighted avg": {
+    "precision": 0.7392139351645818,
+    "recall": 0.5348816295330381,
+    "f1-score": 0.5912459289750567,
+    "support": 355832.0
+  }
+}

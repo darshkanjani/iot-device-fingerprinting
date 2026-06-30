@@ -1,0 +1,12 @@
+metric,value
+unique_raw_devices,50
+unique_canonical_devices,50
+unique_categories_total,12
+device_overlap_unique_devices,8
+category_overlap_unique_categories,8
+devices_in_overlap_categories,39
+prepared_rows,3978467
+device_overlap_rows,602433
+category_overlap_rows,2923751
+device_overlap_labels_from_csv,8
+category_overlap_labels_from_csv,8

@@ -1,0 +1,128 @@
+{
+  "Amazon Echo": {
+    "precision": 0.7798042980120146,
+    "recall": 0.50366,
+    "f1-score": 0.6120251780202688,
+    "support": 50000.0
+  },
+  "Belkin Wemo switch": {
+    "precision": 0.08551501061356515,
+    "recall": 0.029540137574635986,
+    "f1-score": 0.04391155403301152,
+    "support": 28639.0
+  },
+  "Belkin wemo motion sensor": {
+    "precision": 0.9828623594340015,
+    "recall": 0.47372,
+    "f1-score": 0.6393068732371556,
+    "support": 50000.0
+  },
+  "Dropcam": {
+    "precision": 0.8705096073517126,
+    "recall": 0.3614290669441554,
+    "f1-score": 0.5107843137254902,
+    "support": 2883.0
+  },
+  "HP Printer": {
+    "precision": 0.9402654867256637,
+    "recall": 0.18627279102384292,
+    "f1-score": 0.3109452736318408,
+    "support": 11408.0
+  },
+  "Light Bulbs LiFX Smart Bulb": {
+    "precision": 0.4195638629283489,
+    "recall": 0.5630434782608695,
+    "f1-score": 0.48082827561585145,
+    "support": 17940.0
+  },
+  "MacBook": {
+    "precision": 0.007702716769022588,
+    "recall": 0.39572192513368987,
+    "f1-score": 0.015111292628139678,
+    "support": 374.0
+  },
+  "NEST Protect smoke alarm": {
+    "precision": 0.995049504950495,
+    "recall": 0.7976190476190477,
+    "f1-score": 0.8854625550660793,
+    "support": 252.0
+  },
+  "Netatmo Welcome": {
+    "precision": 0.9098556701030928,
+    "recall": 0.7857549857549857,
+    "f1-score": 0.8432639021593733,
+    "support": 14040.0
+  },
+  "Netatmo weather station": {
+    "precision": 0.9864864864864865,
+    "recall": 0.49002961500493586,
+    "f1-score": 0.6547948819416963,
+    "support": 5065.0
+  },
+  "PIX-STAR Photo-frame": {
+    "precision": 0.9537253591713999,
+    "recall": 0.8764200184218606,
+    "f1-score": 0.9134399999999998,
+    "support": 13028.0
+  },
+  "Samsung Galaxy Tab": {
+    "precision": 0.6727713983955417,
+    "recall": 0.59878,
+    "f1-score": 0.6336229246251363,
+    "support": 50000.0
+  },
+  "Samsung SmartCam": {
+    "precision": 0.8441196938065414,
+    "recall": 0.8447355330790913,
+    "f1-score": 0.8444275011602467,
+    "support": 30155.0
+  },
+  "Smart Things": {
+    "precision": 0.446271186440678,
+    "recall": 0.3856858264487022,
+    "f1-score": 0.413772511550429,
+    "support": 34134.0
+  },
+  "TP-Link Day Night Cloud camera": {
+    "precision": 0.7181653590826795,
+    "recall": 0.4221355090457609,
+    "f1-score": 0.5317247542448614,
+    "support": 14095.0
+  },
+  "TP-Link Smart plug": {
+    "precision": 0.9472364059840545,
+    "recall": 0.7931888080414072,
+    "f1-score": 0.8633951171715523,
+    "support": 13331.0
+  },
+  "Triby Speaker": {
+    "precision": 0.9248,
+    "recall": 0.03262035103561149,
+    "f1-score": 0.06301788050588748,
+    "support": 17719.0
+  },
+  "iHome": {
+    "precision": 0.87687265917603,
+    "recall": 0.6764174792343807,
+    "f1-score": 0.763710499490316,
+    "support": 2769.0
+  },
+  "micro avg": {
+    "precision": 0.6603814689333444,
+    "recall": 0.49409833854178375,
+    "f1-score": 0.5652647789784363,
+    "support": 355832.0
+  },
+  "macro avg": {
+    "precision": 0.7423098369684071,
+    "recall": 0.5120430318123876,
+    "f1-score": 0.556863627155963,
+    "support": 355832.0
+  },
+  "weighted avg": {
+    "precision": 0.7241789849924849,
+    "recall": 0.49409833854178375,
+    "f1-score": 0.5571719879212091,
+    "support": 355832.0
+  }
+}

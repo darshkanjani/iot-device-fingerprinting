@@ -1,0 +1,12 @@
+{
+  "train_csv": "outputs/clean/unsw_di_all_flow_plus_app.csv",
+  "test_csv": "outputs/prepared/unsw_ad_intersection_flow_plus_app_capped.csv",
+  "common_feature_count": 60,
+  "dropped_unseen_test_rows": 0,
+  "max_test_per_class": null,
+  "models": [
+    "rf",
+    "gb",
+    "knn"
+  ]
+}

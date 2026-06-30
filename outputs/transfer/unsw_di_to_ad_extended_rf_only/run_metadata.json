@@ -1,0 +1,10 @@
+{
+  "train_csv": "outputs/clean/unsw_di_all_extended.csv",
+  "test_csv": "outputs/prepared/unsw_ad_intersection_extended.csv",
+  "common_feature_count": 65,
+  "dropped_unseen_test_rows": 4540270,
+  "max_test_per_class": 50000,
+  "models": [
+    "rf"
+  ]
+}
